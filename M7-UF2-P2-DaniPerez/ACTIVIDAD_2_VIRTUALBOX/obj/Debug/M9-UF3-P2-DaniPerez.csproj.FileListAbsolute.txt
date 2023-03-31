@@ -1,0 +1,14 @@
+C:\Users\danip\Desktop\CFGS\2DAM\JOAN\M9-UF3-P2-DaniPerez\ACTIVIDAD_2_VIRTUALBOX\bin\Debug\ACTIVIDAD_2_VIRTUALBOX.exe.config
+C:\Users\danip\Desktop\CFGS\2DAM\JOAN\M9-UF3-P2-DaniPerez\ACTIVIDAD_2_VIRTUALBOX\bin\Debug\ACTIVIDAD_2_VIRTUALBOX.exe
+C:\Users\danip\Desktop\CFGS\2DAM\JOAN\M9-UF3-P2-DaniPerez\ACTIVIDAD_2_VIRTUALBOX\bin\Debug\ACTIVIDAD_2_VIRTUALBOX.pdb
+C:\Users\danip\Desktop\CFGS\2DAM\JOAN\M9-UF3-P2-DaniPerez\ACTIVIDAD_2_VIRTUALBOX\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\danip\Desktop\CFGS\2DAM\JOAN\M9-UF3-P2-DaniPerez\ACTIVIDAD_2_VIRTUALBOX\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\danip\Desktop\CFGS\2DAM\JOAN\M9-UF3-P2-DaniPerez\ACTIVIDAD_2_VIRTUALBOX\obj\Debug\M9-UF3-P2-DaniPerez.csproj.AssemblyReference.cache
+C:\Users\danip\Desktop\CFGS\2DAM\JOAN\M9-UF3-P2-DaniPerez\ACTIVIDAD_2_VIRTUALBOX\obj\Debug\M9-UF3-P2-DaniPerez.csproj.SuggestedBindingRedirects.cache
+C:\Users\danip\Desktop\CFGS\2DAM\JOAN\M9-UF3-P2-DaniPerez\ACTIVIDAD_2_VIRTUALBOX\obj\Debug\VirtualBoxManagement.Form1.resources
+C:\Users\danip\Desktop\CFGS\2DAM\JOAN\M9-UF3-P2-DaniPerez\ACTIVIDAD_2_VIRTUALBOX\obj\Debug\ACTIVIDAD_2_VIRTUALBOX.Properties.Resources.resources
+C:\Users\danip\Desktop\CFGS\2DAM\JOAN\M9-UF3-P2-DaniPerez\ACTIVIDAD_2_VIRTUALBOX\obj\Debug\M9-UF3-P2-DaniPerez.csproj.GenerateResource.cache
+C:\Users\danip\Desktop\CFGS\2DAM\JOAN\M9-UF3-P2-DaniPerez\ACTIVIDAD_2_VIRTUALBOX\obj\Debug\M9-UF3-P2-DaniPerez.csproj.CoreCompileInputs.cache
+C:\Users\danip\Desktop\CFGS\2DAM\JOAN\M9-UF3-P2-DaniPerez\ACTIVIDAD_2_VIRTUALBOX\obj\Debug\M9-UF3-P2-DaniPerez.csproj.CopyComplete
+C:\Users\danip\Desktop\CFGS\2DAM\JOAN\M9-UF3-P2-DaniPerez\ACTIVIDAD_2_VIRTUALBOX\obj\Debug\ACTIVIDAD_2_VIRTUALBOX.exe
+C:\Users\danip\Desktop\CFGS\2DAM\JOAN\M9-UF3-P2-DaniPerez\ACTIVIDAD_2_VIRTUALBOX\obj\Debug\ACTIVIDAD_2_VIRTUALBOX.pdb
